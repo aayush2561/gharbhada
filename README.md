@@ -3,6 +3,8 @@
 Gharbhada is small version of a room rental application with feature like blogs,post listing,
 user information,edit user profile and also admin section to delete post users and blogs.
 
+**Note** : app is not responsive.
+
 ## Screenshot
 ![screenshots](https://github.com/aayush2561/gharbhada/blob/main/client/Preview.png)
 
