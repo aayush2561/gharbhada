@@ -30,7 +30,6 @@ const Footer = () => {
                     <div className="space-y-4">
                         <h3 className="text-xl font-bold">Our Services</h3>
                         <ul className="space-y-2">
-                            <li><Link to="/messages" className="hover:underline">Message</Link></li>
                             <li><Link to="/search" className="hover:underline">Search</Link></li>
                             <li><Link to="/post" className="hover:underline">Post</Link></li>
                             <li><Link to="/browse" className="hover:underline">Browse</Link></li>
